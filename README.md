@@ -1,12 +1,12 @@
-#Instant search
-##Setup
+# Instant search
+## Setup
 1. Clone the repository
 2. Go to the root of the project and run 'npm install' command to install the package dependencies
 3. Start the node server by 'npm run start' command. It'll start a node server on port 3000
 4. Type 'localhost:3000' in your browser to access a nice search UI. Happy searching!
-##REST Endpoints
+## REST Endpoints
 
-###Search  
+### Search  
 **Endpoint**:  
 http://localhost:3000/search  
 
